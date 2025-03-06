@@ -8,8 +8,8 @@ import AutoImport from "astro-auto-import";
 
 // https://astro.build/config
 export default defineConfig({
-  site: config.site.base_url ? config.site.base_url : "http://astrotemplatesitey.com",
-  base: config.site.base_path ? config.site.base_path : "/",
+  site: config.site.base_url ? config.site.base_url : "https://nthorn.com/",
+  base: config.site.base_path ? config.site.base_path : "/Quantinent",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
   vite: {
     css: {
