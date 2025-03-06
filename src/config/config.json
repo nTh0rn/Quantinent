@@ -1,8 +1,8 @@
 {
   "site": {
     "title": "alfadev-astro-starter",
-    "base_url": "https://astro-starter.alfadev.io",
-    "base_path": "/",
+    "base_url": "https://nthorn.com",
+    "base_path": "/Quantinent/",
     "trailing_slash": false,
     "favicon": "/images/favicon.ico",
     "logo": "/images/logo.png",
